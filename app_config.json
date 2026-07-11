@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.1.1",
-  "mandatory_update_date": "2026-07-10T00:00:00",
+  "latest_version": "1.0.0",
+  "mandatory_update_date": "2026-10-10T00:00:00",
   "store_url": "https://play.google.com/store/apps/details?id=com.bnomar.ronda",
   "whats_new": [
     "نظام مبارزة جديد بين اللاعبين 🔥",
@@ -8,7 +8,7 @@
     "تحسينات على الأداء العام للعبة"
   ],
   "announcement": {
-    "show": true,
+    "show": false,
     "title": "🏆 بطولة الصيف الكبرى!",
     "message": "شارك الآن واربح جوائز حقيقية. التحدي يبدأ الليلة! كونوا في الموعد.",
     "highlights": [
